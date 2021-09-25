@@ -1,0 +1,1 @@
+# django_universe_blog
